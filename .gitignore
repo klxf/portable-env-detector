@@ -1,0 +1,24 @@
+# Build output
+/obj/
+build/
+
+# MounRiver Studio / Eclipse user settings
+.mrs/
+.settings/
+
+# Compiled firmware images
+*.elf
+*.hex
+*.bin
+*.lst
+*.map
+*.o
+*.d
+
+# IDE / editor files
+*.swp
+*.swo
+*~
+
+# Generated makefile fragments
+*.mk
